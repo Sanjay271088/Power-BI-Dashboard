@@ -3,6 +3,7 @@ Welcome to my Power BI Dashboards Repository!
 This repo showcases end-to-end data analytics projects built using Power BI & SQL, demonstrating interactive visualizations, business insights, and data storytelling.
 
 ✅ Projects Included
+
 1️⃣ Blinkit Real-Time Power BI Project – Start to End Analysis
 
 Description: A complete real-time analytics project analyzing Blinkit’s operational and sales performance.
@@ -14,9 +15,6 @@ Real-time order tracking & revenue analysis
 Customer behavior & product performance
 
 Delivery time & efficiency metrics
-
-Preview:
-(Add a screenshot later)
 
 📂 **Download:** [Blinkit Real-Time Dashboard](https://github.com/Sanjay271088/Power-BI-Dashboard/raw/main/Blinkit%20Real%20Time%20Power%20BI%20Project%20%20Start%20to%20End%20Analysis.pbix)
 
@@ -33,9 +31,6 @@ Top-selling pizza flavors & sizes
 
 Revenue & profit insights
 
-Preview:
-(Add a screenshot later)
-
 📂 **Download:** [Pizza Sales Dashboard](https://github.com/Sanjay271088/Power-BI-Dashboard/raw/main/Power%20BI%20%26%20SQL%20Project%20Data%20Analyst%20Portfolio%20End%20to%20End_Pizza%20Sales.pbix)
 
 
@@ -50,9 +45,6 @@ Total transactions & customer segmentation
 Spending trends by category
 
 Insights into credit utilization & repayment
-
-Preview:
-(Add a screenshot later)
 
 📂 **Download:** [Credit Card Report Dashboard](https://github.com/Sanjay271088/Power-BI-Dashboard/raw/main/Credit%20Card%20Report.pbix)
 
