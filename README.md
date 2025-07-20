@@ -18,7 +18,8 @@ Delivery time & efficiency metrics
 Preview:
 (Add a screenshot later)
 
-Download Dashboard: Blinkit_Dashboard.pbix
+📂 **Download:** [Blinkit Real-Time Dashboard](https://github.com/Sanjay271088/Power-BI-Dashboard/raw/main/Blinkit%20Real%20Time%20Power%20BI%20Project%20%20Start%20to%20End%20Analysis.pbix)
+
 
 2️⃣ Power BI & SQL Project – Pizza Sales Analysis
 
@@ -35,7 +36,8 @@ Revenue & profit insights
 Preview:
 (Add a screenshot later)
 
-Download Dashboard: Pizza_Sales.pbix
+📂 **Download:** [Pizza Sales Dashboard](https://github.com/Sanjay271088/Power-BI-Dashboard/raw/main/Power%20BI%20%26%20SQL%20Project%20Data%20Analyst%20Portfolio%20End%20to%20End_Pizza%20Sales.pbix)
+
 
 3️⃣ Credit Card Report – Power BI Dashboard
 
@@ -52,7 +54,8 @@ Insights into credit utilization & repayment
 Preview:
 (Add a screenshot later)
 
-Download Dashboard: Credit_Card_Report.pbix
+📂 **Download:** [Credit Card Report Dashboard](https://github.com/Sanjay271088/Power-BI-Dashboard/raw/main/Credit%20Card%20Report.pbix)
+
 
 🚀 How to View the Dashboards
 Download any .pbix file from this repository.
