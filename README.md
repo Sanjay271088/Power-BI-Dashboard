@@ -76,10 +76,10 @@ Interactive Filters, Drill-through & KPIs
 📫 Let’s Connect
 I’m passionate about Data Analytics & Visualization and always open to discussions, collaborations, and new opportunities.
 
-💼 LinkedIn
+💼 LinkedIn: www.linkedin.com/in/sanjay-jaiswar-844713272
 
-📂 GitHub
+📂 GitHub: https://github.com/Sanjay271088/Power-BI-Dashboard
 
-📧 yourname@email.com
+📧 venomsplash@gmail.com
 
 ⭐ If you find these dashboards useful, give this repo a star!
